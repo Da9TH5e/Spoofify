@@ -58,6 +58,8 @@ Open http://localhost:3000 in your browser to see the result. The app will autom
 **Region**: Croatia  
 
 Hit the Subscribe button to complete the process.
+<img width="653" alt="payment" src="https://github.com/user-attachments/assets/cbb021b9-63ee-4c30-9773-d23bbe9839b7">
+
 
 
 ## Deployment
